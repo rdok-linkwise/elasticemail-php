@@ -1,10 +1,11 @@
 <?php
-
 /**
  * @author Rizart Dokollari <r.dokollari@gmail.com>
- * @since 6/3/16
+ * @since 6/4/16
  */
-class TestCase
-{
 
+namespace Src\Api;
+
+interface Request
+{
 }
