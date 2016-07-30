@@ -4,9 +4,9 @@
  * @since 7/30/16
  */
 
-namespace Src\Exceptions;
+namespace ElasticEmail\V2\Requests\Email;
 
-class ElasticEmailV2Exception extends \Exception
+class RequestException extends \Exception
 {
 
 }
